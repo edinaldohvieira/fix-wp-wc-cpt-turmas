@@ -1,11 +1,14 @@
 # fix-wp-wc-cpt-turmas
 ## Plugin WordPress que permite Cadastrar turmas para determinado curso
-Este é plugin do WordPress e é um complemento do Woocommerce propositadamente configurado para vendas de cursos. 
+Complemento para Woocommerce.
 
-O objetivo deste plugin é permitir que seja selecionado cada pedido para fazer parte de uma turma de alunos, portanto o foco aqui é a turma de alunos, considerando que o restante da base já esteja pronta tais como instalação do WooCommerce eos outros plugins de apois. 
+## Cenário
+Você instalou o WooCommerce com o objetivo de vender seus cursos, cadastrou os produtos (cursos) e vendeu. Depois disso vocẽ gostaria de marcar os pedidos a pertencerem a determinada turma. Este plugin tem a missão de te ajudar a compor várias turmas onde vocẽ pode, acessando os pedidos, selecionar a qual turma cada pedido pertence.
+
+O objetivo deste plugin é, portanto, permitir que seja selecionado cada pedido para para cada turma de alunos, Considerando que o restante da base já esteja pronta tais como instalação do WooCommerce e os outros plugins de apoio. 
 
 ### Sobre a turma de alunos
-A turma de alunos é um "Custom Post Type" criado com o plugin "Custom Post Type UI". Você pode criar um Custom Post Type de nome "turma" ou pode importar uma cópia já pronta configurada com este plugin (logo abaixo tem o link).
+A turma de alunos é um "Custom Post Type" ou simplesmente "CPT" criado inicialmente usando o plugin "Custom Post Type UI". Você pode criar um Custom Post Type de nome "turma" ou pode importar as definições
 
 ### Sobre os campos personalizados no post-type turma
 Os campos foram criados usando o plugin ACF.
