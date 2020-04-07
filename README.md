@@ -31,7 +31,7 @@ https://fixbox.fixonweb.com.br/index.php/s/42mScppbYdToCsK
 onde é possivel usar uma instalação nova do WordPress para fazer um restaure usando o plugin "WP Clone by WP Academy" (baixe o plugin em https://br.wordpress.org/plugins/wp-clone-by-wp-academy/).
 
 ### Baixe as definições de campos
-Se extiver instalando do zero, você pode fazer o download das definições dos campo ACF:
+Se estiver instalando do zero, você pode fazer o download das definições dos campo ACF abaixo:
 
 Definições de campos - ACF_pedidos_turmas
 https://fixbox.fixonweb.com.br/index.php/s/5TwqsxjCzPM4bse
@@ -39,7 +39,8 @@ https://fixbox.fixonweb.com.br/index.php/s/5TwqsxjCzPM4bse
 Definições de campos - ACF_Post_type_Turmas:
 https://fixbox.fixonweb.com.br/index.php/s/7rpRedCAzj6YRgR
 
-### Baixe os plugins
+### Baixe os plugins abaixo
+Caso queira instalar a partir de uma nova instalação do WordPress.
 
 Instale o plugin ACF:
 https://br.wordpress.org/plugins/advanced-custom-fields/
