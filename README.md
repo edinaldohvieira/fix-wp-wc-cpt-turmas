@@ -32,8 +32,8 @@ Senha:
 NOTA:
 O site pode ser restaurado a cada 30 minutos, mantendo assim as configurações pre-definidas mesmo que seja alteradas. Objetivo é manter as configurações defidas previamente pelo desenvolvedor. 
 
-Caso queira examinar como um todo, Uma cópia do site pode ser obtida no seguinte endereço: 
-https://lwinrp2oxh.appsaas.com.br/wp-content/uploads/wp-clone/wpclone_backup_07th_Apr_2020_12-54AM_dem_Cma8qPvgZD.zip 
+Caso queira examinar como um todo, uma cópia do site de demostração pode ser obtida no seguinte endereço: 
+https://fixbox.fixonweb.com.br/index.php/s/42mScppbYdToCsK 
 onde é possivel usar uma instalação nova do WordPress para fazer um restaure usando o plugin "WP Clone by WP Academy" (baixe o plugin em https://br.wordpress.org/plugins/wp-clone-by-wp-academy/).
 
 ### Baixe as definições de campos
