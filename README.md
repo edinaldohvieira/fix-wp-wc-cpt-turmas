@@ -23,14 +23,8 @@ O ambiente de desenvolvimento foi criado usando uma nova instalação do WordPRe
 Acesse 
 https://lwinrp2oxh.appsaas.com.br
 
-Usuario admin:
-(solicite)
-
-Senha:
-(solicite))
-
 NOTA:
-O site pode ser restaurado a cada 30 minutos, mantendo assim as configurações pre-definidas mesmo que seja alteradas. Objetivo é manter as configurações defidas previamente pelo desenvolvedor. 
+O site de demostração pode ser restaurado ou atualizado a cada 30 minutos, mantendo assim as configurações pre-definidas pelo desenvolvedor.
 
 Caso queira examinar como um todo, uma cópia do site de demostração pode ser obtida no seguinte endereço: 
 https://fixbox.fixonweb.com.br/index.php/s/42mScppbYdToCsK 
