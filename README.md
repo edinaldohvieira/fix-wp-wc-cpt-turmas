@@ -13,3 +13,17 @@ Os campos foram criados usando o plugin ACF.
 O ambiente de desenvolvimento foi criado usando uma nova instalação do WordPRess com o tema "Astra" e os plugins "ACF" e "Post Type UI" e claro este plugin criado a partir do zero ;
 
 ### Sobre o site de demostração
+lwinrp2oxh.appsaas.com.br
+
+Usuario admin:
+lwinrp2oxh
+
+Senha:
+y3pd2AVPp@Y
+
+Observação:
+O site é restaurado a cada 30 minutos, mantendo assim as configurações pre-definidas mesmo que seja alteradas. 
+
+Uma cópia do site pode ser obtida no seguinte endereço: 
+
+
