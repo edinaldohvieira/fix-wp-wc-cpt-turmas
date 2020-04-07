@@ -219,3 +219,41 @@ function fix158617_curso_alunos_list($atts, $content = null){
 }
 
 
+function cptui_register_my_cpts() {
+
+	/**
+	 * Post Type: Turmas.
+	 */
+
+	$labels = [
+		"name" => __( "Turmas", "astra" ),
+		"singular_name" => __( "Turma", "astra" ),
+	];
+
+	$args = [
+		"label" => __( "Turmas", "astra" ),
+		"labels" => $labels,
+		"description" => "",
+		"public" => true,
+		"publicly_queryable" => true,
+		"show_ui" => true,
+		"show_in_rest" => true,
+		"rest_base" => "",
+		"rest_controller_class" => "WP_REST_Posts_Controller",
+		"has_archive" => true,
+		"show_in_menu" => true,
+		"show_in_nav_menus" => true,
+		"delete_with_user" => false,
+		"exclude_from_search" => false,
+		"capability_type" => "post",
+		"map_meta_cap" => true,
+		"hierarchical" => false,
+		"rewrite" => [ "slug" => "turma", "with_front" => true ],
+		"query_var" => true,
+		"supports" => [ "title", "editor", "thumbnail" ],
+	];
+
+	register_post_type( "turma", $args );
+}
+
+add_action( 'init', 'cptui_register_my_cpts' );
