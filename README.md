@@ -3,9 +3,9 @@
 Complemento para Woocommerce.
 
 ## Cenário
-Você instalou o WooCommerce com o objetivo de vender seus cursos, cadastrou os produtos (cursos) e vendeu. Depois disso vocẽ gostaria de marcar os pedidos a pertencerem a determinada turma. Este plugin tem a missão de te ajudar a compor várias turmas onde vocẽ pode, acessando os pedidos, selecionar a qual turma cada pedido pertence.
+Você instalou o WooCommerce com o objetivo de vender seus cursos, cadastrou os produtos (cursos) e vendeu. Depois disso você gostaria de marcar os pedidos a pertencerem a determinada turma. Este plugin tem a missão de te ajudar a compor várias turmas onde você pode, acessando os pedidos, selecionar a qual turma cada pedido pertence.
 
-O objetivo deste plugin é, portanto, permitir que seja selecionado cada pedido para para cada turma de alunos, Considerando que o restante da base já esteja pronta tais como instalação do WooCommerce e os outros plugins de apoio. 
+O objetivo do plugin é, portanto, permitir que seja selecionado cada pedido para para cada turma de alunos.. 
 
 ## Vídeo: breve demostração
 https://youtu.be/NAnH_vnLLRg
